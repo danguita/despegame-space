@@ -1,0 +1,6 @@
+//= require "_vendors/jquery-1.11.0"
+//= require "_vendors/bootstrap"
+//= require "_vendors/jquery.easing.min"
+//= require "_vendors/classie"
+//= require "_vendors/cbpAnimatedHeader"
+//= require "_partials/custom"

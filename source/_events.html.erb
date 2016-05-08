@@ -1,0 +1,28 @@
+<section id="events" class="bg-light-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">Próximos eventos</h2>
+        <h3 class="section-subheading text-muted"></h3>
+      </div>
+    </div>
+    <div class="row">
+      <% blog.articles.reverse.first(6).each do |event| %>
+        <div class="col-md-4 col-sm-6 events-item">
+          <a href="<%= event.url %>" class="events-link">
+            <div class="events-hover">
+              <div class="events-hover-content">
+                <span class="glyphicon glyphicon-plus"></span>
+              </div>
+            </div>
+            <img src="/images/events/<%= event.data.thumbnail %>" class="img-responsive img-centered" alt="">
+          </a>
+          <div class="events-caption">
+            <h4><%= event.title %></h4>
+            <p class="text-muted"><%= event.data.subtitle %></p>
+          </div>
+        </div>
+      <% end %>
+    </div>
+  </div>
+</section>

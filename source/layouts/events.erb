@@ -1,0 +1,30 @@
+<% wrap_layout :layout do %>
+  <header style="background-image:url(/images/events/<%= current_page.data.image %>)">
+    <div class="container">
+      <div class="intro-text">
+        <div class="intro-lead-in"><%= current_page.data.event_date %></div>
+        <div class="intro-heading"><%= current_page.data.title %></div>
+      </div>
+    </div>
+  </header>
+
+  <div class="event-details">
+    <div class="event-content">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 text-center">
+            <p class="large text-muted"><%= current_page.data.description %></p>
+
+            <% if current_page.data.event_url.present? %>
+              <p class="large text-muted">
+                <%= link_to current_page.data.event_url %>
+              </p>
+            <% end %>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <%= partial :events %>
+<% end %>

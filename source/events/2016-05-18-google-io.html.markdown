@@ -1,0 +1,9 @@
+---
+title: Google I/O 2016
+subtitle: Keynote de apertura
+date: 2016-05-18
+image: google-io.jpg
+thumbnail: google-io-thumbnail.jpg
+event_date: Miércoles, 18 de Mayo a las 19:00
+description: Únete a nosotros para ver el streaming de la Keynote de apertura de Google I/O 2016
+---
