@@ -784,13 +784,17 @@ ul.social-buttons li a:active {
 }
 
 .map-container {
-  height: 500px;
-  overflow: hidden;
+  height: 340px;
 }
 
 .map-container iframe {
-  padding-top: 20px;
-  width: 100% !important;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 100%;
+}
+
+.comments {
+  padding-bottom: 50px;
 }
 
 ::-moz-selection {
