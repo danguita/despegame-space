@@ -7,6 +7,8 @@ thumbnail: google-io-thumbnail.jpg
 event_date: Miércoles, 18 de Mayo a las 19:00
 ---
 
-Únete a nosotros para ver el streaming de la Keynote de apertura de Google I/O 2016.
+Únete a nosotros para ver el streaming de la Keynote de apertura de Google I/O 2016, y debatir sobre las tecnologías y productos presentados.
+
+Desde Despégame space proporcionaremos un espacio con mesas de trabajo para aquellos que no puedan parar el ritmo mientras se proyecta la Keynote. El networking será bienvenido durante y tras la Keynote, momento en el que tomaremos unas frías cervezas en la zona centro de Ciudad Real.
 
 [Información en el sitio oficial del evento](https://events.google.com/io2016/schedule?sid=__keynote__#day1/__keynote__)
