@@ -13,13 +13,9 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 text-center">
-            <p class="large text-muted"><%= current_page.data.description %></p>
-
-            <% if current_page.data.event_url.present? %>
-              <p class="large text-muted">
-                <%= link_to current_page.data.event_url %>
-              </p>
-            <% end %>
+            <p class="large text-muted">
+              <%= yield %>
+            </p>
           </div>
         </div>
       </div>

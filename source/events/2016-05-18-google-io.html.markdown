@@ -5,5 +5,8 @@ date: 2016-05-18
 image: google-io.jpg
 thumbnail: google-io-thumbnail.jpg
 event_date: Miércoles, 18 de Mayo a las 19:00
-description: Únete a nosotros para ver el streaming de la Keynote de apertura de Google I/O 2016
 ---
+
+Únete a nosotros para ver el streaming de la Keynote de apertura de Google I/O 2016.
+
+[Información en el sitio oficial del evento](https://events.google.com/io2016/schedule?sid=__keynote__#day1/__keynote__)
