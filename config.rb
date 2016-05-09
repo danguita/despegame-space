@@ -10,6 +10,7 @@ configure :development do
   set :protocol, "http://"
   set :host, "localhost"
   set :port, 4567
+  set :analytics_tracking_code, nil
 end
 
 configure :build do
@@ -17,6 +18,7 @@ configure :build do
   set :protocol, "http://"
   set :host, "www.despegame.space"
   set :port, 80
+  set :analytics_tracking_code, "UA-77455069-1"
 
   # Change the Compass output style for deployment
   activate :minify_css
