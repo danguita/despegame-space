@@ -783,6 +783,16 @@ ul.social-buttons li a:active {
   margin-bottom: 30px;
 }
 
+.map-container {
+  height: 500px;
+  overflow: hidden;
+}
+
+.map-container iframe {
+  padding-top: 20px;
+  width: 100% !important;
+}
+
 ::-moz-selection {
   text-shadow: none;
   background: #fed136;
