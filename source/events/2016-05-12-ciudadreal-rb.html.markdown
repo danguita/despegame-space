@@ -2,8 +2,8 @@
 title: CiudadReal.rb
 subtitle: Reunión y charla de Mayo
 date: 2016-05-12
-image: ciudadreal-rb.jpg
-thumbnail: ciudadreal-rb-thumbnail.jpg
+image: ciudadreal-rb-mayo.jpg
+thumbnail: ciudadreal-rb-mayo-thumbnail.jpg
 event_date: Jueves, 12 de Mayo a las 19:00
 ---
 
