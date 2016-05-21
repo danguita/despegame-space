@@ -1,0 +1,9 @@
+test:
+  override:
+    - ./bin/test
+
+deployment:
+  production:
+    branch: production
+    commands:
+      - ./bin/deploy
