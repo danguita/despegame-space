@@ -17,5 +17,5 @@ generate:
 clean_generate:
 	$(DOCKER_RUN) $(DOCKER_IMAGE_NAME) bundle exec middleman build --clean
 
-deploy:
+deploy: generate
 	$(DOCKER_RUN) $(DOCKER_IMAGE_NAME) bundle exec middleman s3_sync
