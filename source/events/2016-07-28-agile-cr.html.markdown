@@ -1,0 +1,14 @@
+---
+title: Agile-CR
+subtitle: Lightning Talks
+date: 2016-07-28
+image: agile-cr-julio.jpg
+thumbnail: agile-cr-julio-thumbnail.jpg
+event_date: Jueves, 28 de Julio a las 19:00
+---
+
+### Sesión de Lightning Talks
+
+Organizada por Agile-CR y CiudadReal.rb
+
+[Inscripción y detalles del evento](http://www.meetup.com/es/agile-cr/events/232658251/)  
